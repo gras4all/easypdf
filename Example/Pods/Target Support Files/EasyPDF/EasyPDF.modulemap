@@ -1,0 +1,6 @@
+framework module EasyPDF {
+  umbrella header "EasyPDF-umbrella.h"
+
+  export *
+  module * { export * }
+}

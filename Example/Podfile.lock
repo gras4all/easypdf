@@ -1,0 +1,16 @@
+PODS:
+  - EasyPDF (0.1.0)
+
+DEPENDENCIES:
+  - EasyPDF (from `../`)
+
+EXTERNAL SOURCES:
+  EasyPDF:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EasyPDF: bfc06cd4b99da784c527c5dcaa34a256ca096150
+
+PODFILE CHECKSUM: 3591e6eab392c94272b14a5c692eeb6f5d7ab33c
+
+COCOAPODS: 1.12.1
